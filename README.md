@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Akshay Joshi
+# 👋 Hey, I'm Akshay 
 
 ### 🚀 What I Do
 - **Product Manager @ [Setu](https://setu.co)**: Leading all things **Payment Products**, building payments infrastructure for the billions.
