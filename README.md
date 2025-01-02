@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Akshay Joshi
 
-<!--
-**iakshayvj/iakshayvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I Do
+- **Product Manager @ [Setu](https://setu.co)**: Leading all things **Payment Products**, building payments infrastructure for the billions.
 
-Here are some ideas to get you started:
+### 🌱 What I’m Learning
+- Exploring the world of **AI** by building web-apps using tools like [Cursor](https://cursor.so) and Bolt.
+- Bridging **product strategy** with **hands-on coding**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📸 When I’m Not Working
+You can find me:
+- **Clicking photos**: Capturing moments through my lens/iPhone. 📷
+- **Meditating**: Finding peace amidst the chaos. 🧘‍♂️
+
+### 📲 Connect with Me
+- 📧 Email: [hey@akshayjoshi.co](mailto:hey@akshayjoshi.co)
+- 📸 Instagram: [@iakshayvj](https://instagram.com/iakshayvj)
+- 🐦 Twitter (X): [@iakshayvj](https://x.com/iakshayvj)
+
+---
+
+🌟 *Let's connect, collaborate, and create something magical!*
