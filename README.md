@@ -5,11 +5,11 @@
 </p>
 
 ### 🚀 What I Do
-- **Product Manager @ [Setu](https://setu.co)**: Leading all things **Payment Products**, building payments infrastructure for the billions.
+- **Product Manager @ Google**: Earlier @ Setu
 
 ### 🌱 What I’m Learning
-- Exploring the world of **AI** by building web-apps using tools like [Cursor](https://cursor.so) and Bolt.
-- Bridging **product strategy** with **hands-on coding**.
+- Exploring the world of **AI** by building things I need using AI tools
+- Bridging **product strategy** with **hands-on vibe-coding**.
 
 ### 📲 Connect with Me
 - 📧 Email: [hey@akshayjoshi.co](mailto:hey@akshayjoshi.co)
